@@ -29,11 +29,6 @@ caraecoroa-html/
 
 ---
 
-##  Demonstração
-![Cara ou Coroa](https://oliver06z.github.io/cara-e-coroa/imagem/coroa.png)
-
----
-
 ##  Melhorias futuras
 - Animação 3D da moeda girando  
 - Contador de vitórias (quantas vezes deu cara ou coroa)  
