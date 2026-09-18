@@ -6,10 +6,8 @@ O jogador clica no botão e a moeda gira, mostrando aleatoriamente **cara** ou *
 ---
 
 ##  Como jogar
-1. Abra o site publicado no GitHub Pages:  
-    [Clique aqui para jogar](https://oliver06z.github.io/cara-e-coroa/)
-2. Clique no botão **Jogar Moeda**.
-3. Veja o resultado: **Cara** ou **Coroa** 
+. Clique no botão **Jogar Moeda**.
+. Veja o resultado: **Cara** ou **Coroa** 
 
 ---
 
